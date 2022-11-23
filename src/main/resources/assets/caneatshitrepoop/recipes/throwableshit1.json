@@ -1,0 +1,19 @@
+{
+  "group": "caneatshitrepoop",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "caneatshitrepoop:throwtheshit"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "result": {
+    "item": "caneatshitrepoop:throwableshit",
+    "count": 3
+  }
+}

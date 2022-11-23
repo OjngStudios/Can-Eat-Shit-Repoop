@@ -1,0 +1,25 @@
+{
+  "group": "caneatshitrepoop",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caneatshitrepoop:shitblock"
+    },
+    {
+      "item": "caneatshitrepoop:shitblock"
+    },
+    {
+      "item": "minecraft:record_11"
+    },
+    {
+      "item": "caneatshitrepoop:shitblock"
+    },
+    {
+      "item": "caneatshitrepoop:shitblock"
+    }
+  ],
+  "result": {
+    "item": "caneatshitrepoop:homocry",
+    "count": 2
+  }
+}

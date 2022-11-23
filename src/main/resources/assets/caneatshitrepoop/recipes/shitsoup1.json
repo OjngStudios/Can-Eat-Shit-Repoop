@@ -1,0 +1,22 @@
+{
+  "group": "caneatshitrepoop",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caneatshitrepoop:shit"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "caneatshitrepoop:shitsoup",
+    "count": 1
+  }
+}

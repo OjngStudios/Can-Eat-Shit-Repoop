@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "caneatshitrepoop",
+    "name": "CanEatShitRepoop",
+    "description": "A remake version of Can Eat Shit Mod.It's a mod about some eatable poop and its products.",
+    "version": "0.1.1",
+    "credits": "BT, MCr",
+    "logoFile": "assets/caneatshitrepoop/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Ojng-Studios/Can-Eat-Shit-Repoop",
+    "updateUrl": "",
+    "authorList": [
+      "BT"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

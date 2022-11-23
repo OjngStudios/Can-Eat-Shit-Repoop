@@ -1,0 +1,22 @@
+{
+  "group": "caneatshitrepoop",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caneatshitrepoop:shit"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "caneatshitrepoop:shit"
+    },
+    {
+      "item": "caneatshitrepoop:shit"
+    }
+  ],
+  "result": {
+    "item": "caneatshitrepoop:shitingot",
+    "count": 1
+  }
+}

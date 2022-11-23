@@ -1,0 +1,38 @@
+{
+  "aaaaaaahhhhh": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "caneatshitrepoop:aaaaaaahhhhh",
+        "stream": true
+      }
+    ]
+  },
+  "homo_cry": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "caneatshitrepoop:homo_cry",
+        "stream": true
+      }
+    ]
+  },
+  "only_you": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "caneatshitrepoop:only_you",
+        "stream": true
+      }
+    ]
+  },
+  "throwtheshit": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "caneatshitrepoop:throwtheshit",
+        "stream": true
+      }
+    ]
+  }
+}

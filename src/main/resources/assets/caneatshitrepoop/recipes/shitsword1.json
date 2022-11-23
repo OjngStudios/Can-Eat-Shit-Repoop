@@ -1,0 +1,25 @@
+{
+  "group": "caneatshitrepoop",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caneatshitrepoop:shitingot"
+    },
+    {
+      "item": "caneatshitrepoop:shitingot"
+    },
+    {
+      "item": "caneatshitrepoop:shit"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "caneatshitrepoop:shit"
+    }
+  ],
+  "result": {
+    "item": "caneatshitrepoop:shitsword",
+    "count": 1
+  }
+}

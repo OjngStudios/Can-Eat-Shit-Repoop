@@ -1,0 +1,19 @@
+{
+  "group": "caneatshitrepoop",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caneatshitrepoop:shit"
+    },
+    {
+      "item": "minecraft:snow"
+    },
+    {
+      "item": "caneatshitrepoop:shit"
+    }
+  ],
+  "result": {
+    "item": "caneatshitrepoop:throwtheshit",
+    "count": 1
+  }
+}

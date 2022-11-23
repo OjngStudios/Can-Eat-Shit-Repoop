@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caneatshitrepoop:blocks/shit_block",
+    "up": "caneatshitrepoop:blocks/shit_block",
+    "north": "caneatshitrepoop:blocks/shit_block",
+    "east": "caneatshitrepoop:blocks/shit_block",
+    "south": "caneatshitrepoop:blocks/shit_block",
+    "west": "caneatshitrepoop:blocks/shit_block",
+    "particle": "caneatshitrepoop:blocks/shit_block"
+  }
+}
