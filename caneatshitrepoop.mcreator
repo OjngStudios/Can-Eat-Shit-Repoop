@@ -1,0 +1,386 @@
+{
+  "id_map": {
+    "ENTITY": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Homocry",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CanEatShitRepoop",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shit",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FreshSilverfish",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FreshSilrevfish",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RoastSilverfish",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RoastSilverfish1",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitsword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitsword1",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitingot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitingot1",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitblock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitblock1",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitingotblock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sshitingotblock1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitingot2",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shit1",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ShitsoupFoodEaten",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shitsoup",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shitsoup1",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onlyyou",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shit2",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Homocry1",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onlyyou1",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ShitFoodEaten",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Throwtheshit",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Throwtheshit1",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Throwableshit",
+      "type": "gun",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
+    },
+    {
+      "name": "Throwableshit1",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ThrowableshitBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "aaaaaaahhhhh",
+      "file": "aaaaaaahhhhh",
+      "category": "music"
+    },
+    {
+      "name": "homo_cry",
+      "file": "homo_cry",
+      "category": "music"
+    },
+    {
+      "name": "only_you",
+      "file": "only_you",
+      "category": "music"
+    },
+    {
+      "name": "throwtheshit",
+      "file": "throwtheshit",
+      "category": "music"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.record.homocry.desc": "By Homo",
+      "item.roastsilverfish.name": "Roast Silverfish",
+      "item.shitingot.name": "Shit Ingot",
+      "tile.shitingotblock.name": "Shit Ingot Block",
+      "item.shit.name": "Shit",
+      "item.shitsword.name": "Shit Sword",
+      "tile.shitblock.name": "Shit Block",
+      "item.throwtheshit.name": "Throw The Shit",
+      "item.onlyyou.name": "Only You",
+      "item.homocry.name": "Homo\"s Cry",
+      "item.record.throwtheshit.desc": "By Chinese Stars",
+      "itemGroup.tabcaneatshitrepoop": "Can Eat Shit Repoop",
+      "item.shitsoup.name": "Shit Soup",
+      "item.throwableshit.name": "Throwable Shit",
+      "item.record.onlyyou.desc": "By The Platters",
+      "item.freshsilverfish.name": "Fresh Silverfish"
+    },
+    "zh_cn": {
+      "tile.shitingotblock.name": "Êº¶§¿é",
+      "item.record.homocry.desc": "By ÌïËùºÆ¶þ",
+      "item.roastsilverfish.name": "Êìó¼³æ",
+      "item.shitingot.name": "Êº¶§",
+      "tile.shitblock.name": "Êº¿é",
+      "item.shitsword.name": "Êº½£",
+      "item.shit.name": "Êº",
+      "item.throwtheshit.name": "¶ª´ó±ã",
+      "item.onlyyou.name": "Î¨ÓÐÄã",
+      "item.homocry.name": "ÏÈ±²Ö®ÄÅº°",
+      "item.record.throwtheshit.desc": "By »ªÓïÈºÐÇ",
+      "itemGroup.tabcaneatshitrepoop": "¿ÉÒÔ³ÔµÄÊº£ºÖØÀ­",
+      "item.shitsoup.name": "ÊºÌÀ",
+      "item.throwableshit.name": "¿ÉÒÔÈÓµÄÊº",
+      "item.record.onlyyou.desc": "By ÎåºÚ±¦ºÏ³ªÍÅ",
+      "item.freshsilverfish.name": "Éúó¼³æ"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "caneatshitrepoop",
+    "modName": "CanEatShitRepoop",
+    "version": "0.1.1",
+    "description": "A remake version of Can Eat Shit Mod.It\u0027s a mod about some eatable poop and its products.",
+    "author": "BT",
+    "websiteURL": "https://github.com/Ojng-Studios/Can-Eat-Shit-Repoop",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "BT, MCr",
+    "modElementsPackage": "net.mcreator.caneatshitrepoop",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

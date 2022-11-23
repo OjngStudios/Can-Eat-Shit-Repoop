@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ROTTEN_FLESH"
+      },
+      {
+        "value": "Items.ROTTEN_FLESH"
+      },
+      {
+        "value": "Items.ROTTEN_FLESH"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.SPIDER_EYE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Shit"
+    },
+    "name": "shit2",
+    "namespace": "mod"
+  }
+}

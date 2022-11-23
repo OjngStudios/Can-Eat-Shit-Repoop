@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "throwtheshit",
+    "name": "Throw The Shit",
+    "description": "By Chinese Stars",
+    "creativeTab": {
+      "value": "CUSTOM:CanEatShitRepoop"
+    },
+    "music": {
+      "value": "CUSTOM:throwtheshit"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

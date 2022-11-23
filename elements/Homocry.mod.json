@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "xianbei",
+    "name": "Homo\"s Cry",
+    "description": "By Homo",
+    "creativeTab": {
+      "value": "CUSTOM:CanEatShitRepoop"
+    },
+    "music": {
+      "value": "CUSTOM:homo_cry"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

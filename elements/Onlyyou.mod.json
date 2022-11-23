@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "onlyyou",
+    "name": "Only You",
+    "description": "By The Platters",
+    "creativeTab": {
+      "value": "CUSTOM:CanEatShitRepoop"
+    },
+    "music": {
+      "value": "CUSTOM:only_you"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

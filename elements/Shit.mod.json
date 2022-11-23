@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "shit",
+    "customModelName": "Normal",
+    "name": "Shit",
+    "creativeTab": {
+      "value": "CUSTOM:CanEatShitRepoop"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 8,
+    "saturation": 0.2,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ShitFoodEaten"
+    }
+  }
+}
